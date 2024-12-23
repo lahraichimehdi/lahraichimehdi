@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Mehdi and I'm a front-end dev / ui-ux designer, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is Mehdi and I'm a front-end dev /
+  ui-ux designer, from Morocco</h2>
 
 ###
 
